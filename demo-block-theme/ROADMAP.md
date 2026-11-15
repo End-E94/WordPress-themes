@@ -46,4 +46,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/team-members.php with a three-column team pattern _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/faq.php with a details block pattern _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/pricing-tiers.php with three columns each showing a price and a call-to-action button _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Add block style variations (card group and underlined heading) in functions.php
+- [x] Add block style variations (card group and underlined heading) in functions.php _(done by roadmap bot, 2026-11-15, built-in)_
