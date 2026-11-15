@@ -61,3 +61,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 4 - 2026-11-15
 - [x] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Update README.md with a list of the included block patterns and style variations _(done by roadmap bot, 2026-11-15, built-in)_
+
+## Cycle 5 - 2026-11-15
+- [ ] Improve accessibility of patterns/pricing-tiers.php
+- [ ] Improve color contrast in patterns/testimonials.php
