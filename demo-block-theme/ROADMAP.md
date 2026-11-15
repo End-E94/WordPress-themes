@@ -47,3 +47,13 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/faq.php with a details block pattern _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/pricing-tiers.php with three columns each showing a price and a call-to-action button _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add block style variations (card group and underlined heading) in functions.php _(done by roadmap bot, 2026-11-15, built-in)_
+
+## Cycle 3 - 2026-11-15
+- [ ] Create languages/README.md explaining how to translate the theme
+- [ ] Add fluid heading size presets to theme.json
+- [ ] Add print styles to theme.json
+- [ ] Add customTemplates for the page without a title template to theme.json
+- [ ] Add underlined link styles to theme.json so links are not identified by colour alone
+- [ ] Add a forced-colors media query for focus outlines to theme.json
+- [ ] Add a minimum 44px touch target size for buttons and form fields to theme.json
+- [ ] Create styles/high-contrast.json style variation with a high contrast color palette
