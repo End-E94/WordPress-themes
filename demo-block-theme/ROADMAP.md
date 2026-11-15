@@ -56,4 +56,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add underlined link styles to theme.json so links are not identified by colour alone _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add a forced-colors media query for focus outlines to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add a minimum 44px touch target size for buttons and form fields to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Create styles/high-contrast.json style variation with a high contrast color palette
+- [x] Create styles/high-contrast.json style variation with a high contrast color palette _(done by roadmap bot, 2026-11-15, built-in)_
