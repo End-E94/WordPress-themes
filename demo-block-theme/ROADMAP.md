@@ -57,3 +57,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add a forced-colors media query for focus outlines to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add a minimum 44px touch target size for buttons and form fields to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create styles/high-contrast.json style variation with a high contrast color palette _(done by roadmap bot, 2026-11-15, built-in)_
+
+## Cycle 4 - 2026-11-15
+- [ ] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts
+- [ ] Update README.md with a list of the included block patterns and style variations
