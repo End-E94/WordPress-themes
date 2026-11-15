@@ -176,7 +176,7 @@
 				}
 			}
 		},
-		"css": ":where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid var(--wp--preset--color--primary); outline-offset: 2px; } @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0.01ms !important; } } @media print { header, footer, nav, .wp-block-buttons { display: none; } body { background: #fff; color: #000; } } @media (forced-colors: active) { :where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid CanvasText; } }"
+		"css": ":where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid var(--wp--preset--color--primary); outline-offset: 2px; } @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0.01ms !important; } } @media print { header, footer, nav, .wp-block-buttons { display: none; } body { background: #fff; color: #000; } } @media (forced-colors: active) { :where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid CanvasText; } } .wp-element-button, .wp-block-button__link, .wp-block-search__button { min-height: 44px; } input[type=text], input[type=search], input[type=email], select, textarea { min-height: 44px; }"
 	},
 	"customTemplates": [
 		{
