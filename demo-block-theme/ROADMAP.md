@@ -39,7 +39,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Update README.md with the theme description, requirements, installation steps, supported features (block theme, patterns, style variations) and development instructions
 
 ## Cycle 2 - 2026-11-15
-- [ ] Create templates/front-page.html that shows the hero and key-stats patterns above the latest posts
+- [x] Create templates/front-page.html that shows the hero and key-stats patterns above the latest posts _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Create templates/page-no-title.html for pages without a visible title
 - [ ] Create parts/sidebar.html with a search block and a recent posts list
 - [ ] Create styles/sand.json style variation with a warm neutral color palette
