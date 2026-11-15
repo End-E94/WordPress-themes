@@ -29,7 +29,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/dark.json style variation (version 3) with a dark color palette _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add button, link and heading element styles to theme.json using the color palette _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add a visible :focus-visible outline for links and buttons to theme.json styles _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Add a prefers-reduced-motion rule to the custom CSS in theme.json
+- [x] Add a prefers-reduced-motion rule to the custom CSS in theme.json _(done by roadmap bot, 2026-11-15, built-in)_
 
 ## WordPress.org readiness and coding standards
 - [ ] Create readme.txt in the WordPress.org theme readme format with Description, Installation, Frequently Asked Questions, Copyright (credits for any bundled resources) and Changelog, stating Requires at least 6.6, Tested up to 7.1 and Requires PHP 7.4
