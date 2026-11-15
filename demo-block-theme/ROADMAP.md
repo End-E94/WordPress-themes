@@ -44,6 +44,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create parts/sidebar.html with a search block and a recent posts list _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create styles/sand.json style variation with a warm neutral color palette _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/team-members.php with a three-column team pattern _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Create patterns/faq.php with a details block pattern
+- [x] Create patterns/faq.php with a details block pattern _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Create patterns/pricing-tiers.php with three columns each showing a price and a call-to-action button
 - [ ] Add block style variations (card group and underlined heading) in functions.php
