@@ -59,5 +59,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/high-contrast.json style variation with a high contrast color palette _(done by roadmap bot, 2026-11-15, built-in)_
 
 ## Cycle 4 - 2026-11-15
-- [ ] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts
+- [x] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Update README.md with a list of the included block patterns and style variations
