@@ -15,7 +15,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/page.html with post title, featured image and post content _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create templates/archive.html with an archive title, a query loop and pagination _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create templates/search.html with a search block, a results heading, a query loop and pagination _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Create templates/404.html with a friendly message and a search block
+- [x] Create templates/404.html with a friendly message and a search block _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Create templates/home.html for the blog posts index with a query loop
 - [ ] Create functions.php with a file docblock and a demo_block_theme_setup() function hooked to after_setup_theme that adds wp-block-styles and editor-styles support
 - [ ] Add a demo_block_theme_register_pattern_categories() function hooked to init that registers a demo-block-theme block pattern category in functions.php
