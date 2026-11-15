@@ -28,3 +28,26 @@ function demo_block_theme_register_pattern_categories() {
 	);
 }
 add_action( 'init', 'demo_block_theme_register_pattern_categories' );
+
+/**
+ * Registers block style variations.
+ */
+function demo_block_theme_register_block_styles() {
+	register_block_style(
+		'core/group',
+		array(
+			'name'         => 'card',
+			'label'        => __( 'Card', 'demo-block-theme' ),
+			'inline_style' => '.wp-block-group.is-style-card { padding: 1.5rem; border: 1px solid currentColor; border-radius: 8px; }',
+		)
+	);
+	register_block_style(
+		'core/heading',
+		array(
+			'name'         => 'underline',
+			'label'        => __( 'Underline', 'demo-block-theme' ),
+			'inline_style' => '.wp-block-heading.is-style-underline { text-decoration: underline; text-underline-offset: 0.2em; }',
+		)
+	);
+}
+add_action( 'init', 'demo_block_theme_register_block_styles' );
