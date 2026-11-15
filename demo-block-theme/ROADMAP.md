@@ -51,7 +51,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 3 - 2026-11-15
 - [x] Create languages/README.md explaining how to translate the theme _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Add fluid heading size presets to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Add print styles to theme.json
+- [x] Add print styles to theme.json _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Add customTemplates for the page without a title template to theme.json
 - [ ] Add underlined link styles to theme.json so links are not identified by colour alone
 - [ ] Add a forced-colors media query for focus outlines to theme.json
