@@ -25,7 +25,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/call-to-action.php with a call-to-action banner using group, heading and buttons blocks and esc_html_e() with the demo-block-theme text domain _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/key-stats.php with three columns each showing a large number and a label, using esc_html_e() with the demo-block-theme text domain _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Create patterns/features-three-columns.php with three columns each with a heading and a short paragraph, using esc_html_e() with the demo-block-theme text domain _(done by roadmap bot, 2026-11-15, built-in)_
-- [ ] Create patterns/testimonials.php with a quote block pattern using esc_html_e() with the demo-block-theme text domain
+- [x] Create patterns/testimonials.php with a quote block pattern using esc_html_e() with the demo-block-theme text domain _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Create styles/dark.json style variation (version 3) with a dark color palette
 - [ ] Add button, link and heading element styles to theme.json using the color palette
 - [ ] Add a visible :focus-visible outline for links and buttons to theme.json styles
