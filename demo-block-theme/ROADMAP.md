@@ -21,7 +21,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add a demo_block_theme_register_pattern_categories() function hooked to init that registers a demo-block-theme block pattern category in functions.php _(done by roadmap bot, 2026-11-15, built-in)_
 
 ## Patterns and style
-- [ ] Create patterns/hero.php with a block pattern header comment (Title, Slug: demo-block-theme/hero, Categories: demo-block-theme) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the demo-block-theme text domain for every visible string
+- [x] Create patterns/hero.php with a block pattern header comment (Title, Slug: demo-block-theme/hero, Categories: demo-block-theme) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the demo-block-theme text domain for every visible string _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Create patterns/call-to-action.php with a call-to-action banner using group, heading and buttons blocks and esc_html_e() with the demo-block-theme text domain
 - [ ] Create patterns/key-stats.php with three columns each showing a large number and a label, using esc_html_e() with the demo-block-theme text domain
 - [ ] Create patterns/features-three-columns.php with three columns each with a heading and a short paragraph, using esc_html_e() with the demo-block-theme text domain
