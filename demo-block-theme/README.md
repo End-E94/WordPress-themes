@@ -24,3 +24,21 @@ Demo Block Theme is a block theme (full site editing). It includes block pattern
 ## Development
 
 Run composer install, then composer lint to check the code against the WordPress coding standards and composer fix to fix what can be fixed automatically.
+
+## Included block patterns
+
+- Hero
+- Call to action
+- Key stats
+- Features in three columns
+- Testimonial
+- Team members
+- FAQ
+- Pricing tiers
+- Blog posts grid
+
+## Style variations
+
+- Dark
+- Sand
+- High Contrast
