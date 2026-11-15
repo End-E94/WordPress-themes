@@ -37,3 +37,13 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create composer.json with dev dependencies wp-coding-standards/wpcs and phpcompatibility/phpcompatibility-wp and lint and fix scripts that run phpcs and phpcbf _(done by roadmap bot, 2026-11-15, built-in)_
 - [x] Review functions.php against the WordPress PHP coding standards (tabs, spacing inside parentheses, Yoda conditions, docblocks) and fix any issues _(done by roadmap bot, 2026-11-15, built-in)_
 - [ ] Update README.md with the theme description, requirements, installation steps, supported features (block theme, patterns, style variations) and development instructions
+
+## Cycle 2 - 2026-11-15
+- [ ] Create templates/front-page.html that shows the hero and key-stats patterns above the latest posts
+- [ ] Create templates/page-no-title.html for pages without a visible title
+- [ ] Create parts/sidebar.html with a search block and a recent posts list
+- [ ] Create styles/sand.json style variation with a warm neutral color palette
+- [ ] Create patterns/team-members.php with a three-column team pattern
+- [ ] Create patterns/faq.php with a details block pattern
+- [ ] Create patterns/pricing-tiers.php with three columns each showing a price and a call-to-action button
+- [ ] Add block style variations (card group and underlined heading) in functions.php
